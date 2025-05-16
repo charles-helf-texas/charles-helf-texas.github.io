@@ -1,7 +1,7 @@
 ---
 title: The Outlook
 layout: landing
-description: 'Three core issues<br />Dozens of interrelations'
+description: 'Four core issues<br />Dozens of interrelations'
 image: assets/images/the-vision.jpg
 nav-menu: true
 ---
@@ -62,7 +62,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Corporate Corruption Ensures Most of Congress Ignores Our Problems</h3>
 				</header>
-				<p>Excessive money in American politics is nothing new, with comedians time and again coming up with clever quips about what's basically legalized bribery. Politicians receive exorbitant donations from dozens of large businesses, then 'coincidentally' pass laws later that fit perfectly within those companies' interests. We hear and see examples of this all the time. Factories get emissions regulations removed to cut costs, and this causes spikes in cancer for the people who live nearby. Health providers add legal provisions to allow them to deny more claims unnecessarily, and this causes people to either have to pay for treatment out of pocket, get sicker, or just straight up die. Mixed in with all of these actions that cause direct harm to people, though, is lobbying that also enriches them at our expense through bloated government contracts. If we do nothing in the next 10 years, more of us will suffer, and our country's debt will snowball even faster.</p>
+				<p>Excessive money in American politics is nothing new, with comedians time and again coming up with clever quips about what we all understand is basically legalized bribery. Politicians receive exorbitant donations from dozens of large businesses through corporate PACs, then 'coincidentally' pass laws later that fit perfectly within those companies' interests. We hear and see examples of this all the time. And we pay the price for their gains. Factories get emissions regulations removed to cut costs, and this causes spikes in cancer for the people who live nearby. Health providers add legal provisions to allow them to deny more claims unnecessarily, and this causes people to either have to pay for treatment out of pocket, get sicker, or just straight up die. Mixed in with all of these actions that cause direct harm to people, though, is lobbying that also enriches them at our expense through bloated government contracts. If we do nothing in the next 10 years, more of us will suffer, and our country's debt will snowball even faster.</p>
 				<ul class="actions">
 					<li><a href="elements.html" class="button">The Details</a></li>
 				</ul>
@@ -78,7 +78,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Disregarding Law and Procedure is Making Everything Worse</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Given the already dire situation we're in, patching the holes in our country is going to be hard enough, as it is. Recently, though, a new massive problem has come up: entire branches of government (as well as some of their agencies) blatantly ignoring laws and procedures. For centuries, this country has held together because of both the decentralized legal framework and the people who believed in its effectiveness in making an America that works for everyone. Our revolutionary war was fought because our predecessors rightly recognized the danger and injustice of an all-powerful individual ruling a country through whatever whim took his or her fancy. Our predecessors understood the necessity of keeping power split apart and distributed, so that no single bad actor could arbitrarily and single-handedly dismantle what was supposed to be a country founded on the right to life, liberty, and the pursuit of happiness. If we do nothing in the next 10 years, Democracy will fall.</p>
 				<ul class="actions">
 					<li><a href="elements.html" class="button">The Details</a></li>
 				</ul>
