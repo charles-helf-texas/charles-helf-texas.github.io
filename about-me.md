@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Who I Am
+description: A short biography<br >A detailed perspective
+image: assets/images/about-me.jpg
 nav-menu: true
 ---
 
