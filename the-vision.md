@@ -2,7 +2,7 @@
 title: The Vision
 layout: landing
 description: 'Three core issues<br />A multitude of interrelations'
-image: assets/images/my-platform.jpg
+image: assets/images/the-vision.jpg
 nav-menu: true
 ---
 
