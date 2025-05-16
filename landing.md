@@ -1,8 +1,8 @@
 ---
-title: Landing
+title: The Vision
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 'Three core issues<br />A multitude of interrelations'
+image: assets/images/my-platform.jpg
 nav-menu: true
 ---
 
