@@ -60,9 +60,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Much of Congress Continues Ignoring the Problems Because of Corporate Corruption</h3>
+					<h3>Corporate Corruption Ensures Most of Congress Ignores Our Problems</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Excessive money in American politics is nothing new, with comedians time and again coming up with clever quips about what's basically legalized bribery. Politicians receive exorbitant donations from dozens of large businesses, then 'coincidentally' pass laws later that fit perfectly within those companies' interests. We hear and see examples of this all the time. Factories get emissions regulations removed to cut costs, and this causes spikes in cancer for the people who live nearby. Health providers add legal provisions to allow them to deny more claims unnecessarily, and this causes people to either have to pay for treatment out of pocket, get sicker, or just straight up die. Mixed in with all of these actions that cause direct harm to people, though, is lobbying that also enriches them at our expense through bloated government contracts. If we do nothing in the next 10 years, more of us will suffer, and our country's debt will snowball even faster.</p>
 				<ul class="actions">
 					<li><a href="elements.html" class="button">The Details</a></li>
 				</ul>
@@ -76,7 +76,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Continued Disregard of the Rule of Law is Making Everything Worse</h3>
+					<h3>Disregarding Law and Procedure is Making Everything Worse</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
