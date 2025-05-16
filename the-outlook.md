@@ -1,7 +1,7 @@
 ---
-title: The Vision
+title: The Outlook
 layout: landing
-description: 'Three core issues<br />A multitude of interrelations'
+description: 'Three core issues<br />Dozens of interrelations'
 image: assets/images/the-vision.jpg
 nav-menu: true
 ---
@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Put Simply: Our Country is a Decade Away from Collapse</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Nearly every American knows that our country is facing some incredible problems right now. It's no secret. Nor is it news that the core root of all these problems is 'money'. What maybe isn't so clear, however, is just how severe the situation is. Or what we need to do in order to repair the damaged fabric of our legal and economic landscape. Listed here are brief summaries of the most disastrous issues plaguing us, the largest contributors to looming disaster for nearly all Americans. Each summary also contains a link to a more detailed synopsis of the current effects of these issues and their causes. Each synopsis also contains one or more possible solutions that my team has identified.</p>
 	</div>
 </section>
 
@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Our Federal Deficit is Absolutely OUT of Control</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Our Congressional budget has very rarely ever been balanced. However, we have never before racked up the kind of debt that we have now. From the country's inception until the year 2016, our federal debt was about $20 trillion. Today, not even a full 10 years later, our debt is now $36 trillion. That's $9 trillion in less than 10 years. For perspective, our federal debt hit a total of $9 trillion for the first time in 2007. Our country was founded in 1776. That means in the 213 years it took our country to accumulate $9 trillion in debt for the first time, it took us less than 10 years to add another $9 trillion to that debt. That's insane.</p>
 				<ul class="actions">
 					<li><a href="elements.html" class="button">The Details</a></li>
 				</ul>
@@ -44,7 +44,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Our Middle Class is Shrinking, and Our Lower Class Can't Work Their Way into the Middle Class</h3>
+					<h3>The Middle and Lower Classes are Being Bled Dry</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
@@ -60,7 +60,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Government Corruption by Mega-Corporations is Causing Congress to Ignore the American People</h3>
+					<h3>Much of Congress Continues Ignoring the Problems Because of Corporate Corruption</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
@@ -76,11 +76,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Continued Disregard of the Rule of Law is Making Everything Worse</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="elements.html" class="button">Learn more</a></li>
+					<li><a href="elements.html" class="button">The Details</a></li>
 				</ul>
 			</div>
 		</div>
