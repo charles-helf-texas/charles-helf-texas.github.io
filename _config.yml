@@ -1,8 +1,8 @@
 # site settings
-title: "Hey there, stranger. I'm Charles Helf."
-subtitle: Test Subtitle
+title: "Charles Helf TX"
+subtitle: "A grassroots figure of, by, and for the ordinary Texan"
 email: charles-helf-texas@gmail.com
-description: A grassroots figure of, by, and for the ordinary Texan
+description: "Let's get to know each other a little better. Believe it or not, I'm actually in this because I want to help you, rather than help myself."
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
