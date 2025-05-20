@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>Our Congressional budget has very rarely ever been balanced. However, we have never before racked up the kind of debt that we have now. From the country's inception until the year 2016, our federal debt was about $20 trillion. Today, not even a full 10 years later, our debt is now $36 trillion. That's $9 trillion in less than 10 years. For perspective, our federal debt hit a total of $9 trillion for the first time in 2007. Our country was founded in 1776. That means in the 213 years it took our country to accumulate $9 trillion in debt for the first time, it took us less than 10 years to add another $9 trillion to that debt. That's insane. And that's unsustainable. The annual interest payments alone on that debt are already almost $1 trillion. If we do nothing in the next 10 years, our debt growth will almost certainly spiral out of control, beyond our ability to repair.</p>
 				<ul class="actions">
-					<li><a href="elements.html" class="button">The Details</a></li>
+					<li><a href="federal-deficit.html" class="button">The Details</a></li>
 				</ul>
 			</div>
 		</div>

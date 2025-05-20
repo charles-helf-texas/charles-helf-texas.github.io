@@ -1,8 +1,8 @@
 # site settings
 title: "Charles Helf TX"
 subtitle: "A grassroots figure of, by, and for the ordinary Texan"
-email: charles-helf-texas@gmail.com
-description: "Let's get to know each other a little better. Believe it or not, I'm actually in this because I want to help you, rather than help myself."
+email: charles_helf_texas@gmail.com
+description: "Let's get to know each other a little better. Believe it or not, I'm actually in this because I want to help you, rather than to help myself."
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -16,7 +16,7 @@ formspreeid: mpwdnyvd
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 8
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
@@ -26,10 +26,10 @@ socials:
   GitHub: https://github.com/
   GitLab:
   Google-Plus: https://plus.google.com/
-  Instagram:
+  Instagram: https://www.instagram.com/
   LinkedIn: https://www.linkedin.com/
   Twitter: https://twitter.com/
-  Facebook:
+  Facebook: https://www.facebook.com/
   Slack:
 
 # build settings
@@ -43,3 +43,4 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+- elements.md
