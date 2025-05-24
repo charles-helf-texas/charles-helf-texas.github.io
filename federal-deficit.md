@@ -3,6 +3,7 @@ layout: page
 title: Federal Deficit
 image: assets/images/pic01.jpg
 nav-menu: true
+show_tile: false
 ---
 
 <!-- Main -->
