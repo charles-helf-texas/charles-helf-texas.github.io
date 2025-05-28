@@ -39,7 +39,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="about-me.html" class="image">
-			<img src="{% link assets/images/strained-workers.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/strained-workers.jpeg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
