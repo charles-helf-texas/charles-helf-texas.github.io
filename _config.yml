@@ -13,6 +13,7 @@ zip_code: 55555
 country: United States of America
 phone: (555) 555-5555
 formspreeid: mpwdnyvd
+index_heading: "Before You Go: Share Your Thoughts"
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

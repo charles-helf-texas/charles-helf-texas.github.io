@@ -1,0 +1,37 @@
+---
+layout: post
+title: How We Can Succeed
+description: From the smallest of seeds<br /> The grandest of fruits
+image: assets/images/the-movement.jpg
+nav-menu: true
+---
+
+<h2>Money and Politics</h2>
+
+They say money wins politics. That's just common sense... isn't it? Establishment groups bankrolled by the largest corporations and the richest individuals blow hundreds of thousands of dollars every election cycle on advertisements and consultants to orchestrate grand publicity campaigns that are, in theory, expertly designed to sway voters. According to common wisdom, independents and third parties simply don't have a chance because they can't possibly raise the funds necessary to compete with the two major parties... right?
+
+Except, there's a funny little caveat to all of this: the relationship between money and elections is <a href="https://fivethirtyeight.com/features/money-and-elections-a-complicated-love-story/">a little complicated.</a> America's political demographics have also shifted over the past decade. About 53% of registered voters today aren't registered under either the Democratic Party or the Republican Party. Nearly <a href="https://news.gallup.com/poll/467897/party-preferences-evenly-split-2022-shift-gop.aspx">41% of Americans outright identify themselves as independents</a>. What's more, the 2024 election cycle saw Dan Osborn, a complete newcomer in Nebraska running as an independent on a worker-centered platform, <a href="https://inthesetimes.com/article/labor-union-working-class-dan-osborn-nebraska">nearly take an incumbent's seat in the Senate race</a>.
+
+The truth is, millions of Americans are sick of 'business-as-usual' politics. What's more, there might actually be a solid, effective method of running as an Independent that doesn't risk 'splitting the ticket', which is another way of saying 'wasting votes'. And it relies on the fact that people who believe enough in a candidate to make a donation to them, <b>even just $1</b>, are overwhelmingly likely to follow through and vote for that candidate.
+
+<h2>The Strategy</h2>
+
+Put simply: the Texas 1st Congressional District has a population of around 780,000. If we assume that about 80,000 are too young to vote, that means that any prospective candidate needs to secure 350,001 votes (exactly half, plus one) to guarantee a win. The closer they are to that number, the more likely they are to win. And what's the best way to tell how close a candidate is to securing that many votes? Counting the total number of contributions they've received from private citizens residing in the district. Statistically, people who make any kind of monetary contribution to a candidate are overwhelmingly likely to vote for that candidate by election day. So, if the concern is that there won't be enough votes for my candidacy to be worthwhile, then the fix is easy: let my published tally of total contributors speak for itself.
+
+If you're not satisfied with how well I'm doing close to Election Day, you get your vote back! You also get to decide which candidates get the excess funds I've received.
+
+If you really like my platform, but worry about whether your vote will be wasted on the big day, just donate a single dollar ($1) to my campaign and keep an eye on my contributor count. Don't feel like you have to commit to voting for me on election day until my count is showing some <b>serious</b> numbers. If I don't have enough individual contributors by the middle of 2026 (ideally, somewhere between 150k to 300k, depending on the results of research and polling), I'll run a separate poll exclusively for all of my contributors to tell me whether you all want me to keep running or drop out. If the majority decide that I'm not a safe enough bet, I'll not only drop out of the race, but also disburse any unspent campaign contributions toward the candidate(s) of your choice. In that situation, a separate poll will be put up so that money is divided proportionally among the named alternative candidates.
+
+This way, you know for a fact that, as much as possible, you're getting what you want.
+
+Statistically, $100,000 raised from 100,000 individual supporters is worth way, <b>way</b> more than $1,000,000 raised from 1,000 people. Because the reality is that, at the end of the day, 100,000 supporters will provide far more votes than 1,000 rich campaign donors. Think of it like a progress report on my performance. My goal should be, over the course of this election, to gather enough individual contributors to prove to everyone that I'm not just a viable candidate, but the <b>most</b> viable one. If, by a certain critical date in the election season, I just don't have enough supporters to have a reasonable chance at winning? I'll bow out, if needed. I'm not here to waste your time, your money, or your vote. Your voice matters, and it's already bad enough that so many Congress members flat-out ignore their constituents. You don't need some prideful figurehead pressuring you for loyalty if it's not even going to help you.
+
+Money matters, to an extent. But, belief and confidence from voters <b>matters so much more</b>. That's the kind of campaign I intend to run. Not one based on raking in hundreds of thousands of dollars to try and trick people into liking me, or to try and badmouth my opponents, or to live an extravagent lifestyle throughout the campaign season. Rather, I want to run a campaign based on simply meeting with as many of my neighbors here as I can and finding out whether they like what I have to offer. Nothing more, and nothing less.
+
+<h2>Some Context (For Nerds Like Me)</h2>
+
+Let's take the 2024 election cycle for example. 369 races for the House of Representatives took place; that means each race had 369 winners and 369 losers. Of the 369 losing candidates, 79 of them (about 21%) didn't spend a single dollar. The only conceivable reason for this is that they didn't even bother trying. Also of the 369 losing candidates, 133 of them (about 36%) didn't even spend a full $100,000. Put another way: if we assume that each donor was only allowed to donate $1 to a candidate, this means that 57% (nearly 3/5) of the losing candidates couldn't muster the support of even 100,000 people. Why does this matter? Simple: the average Congressional District in the United States has a population of 760,000 people. If we're making the (very unlikely) assumption that every $1 equates to 1 voter, then it makes perfect sense as to why these candidates lost. They couldn't even get 13% of their district's support.
+
+The vast, vast majority of these losing candidates were from one of the two existing establishment parties. 21% of them didn't even try (not even $1 spent). Another 36% of them just didn't resonate with voters. This is verified by reviewing the election results for these races, which generally show between a 30-point and 50-point lead between the winning and losing candidates. In these cases, we can very confidently say that money was more predictive than causative.
+
+That's the core idea behind my strategy here. By spreading the word through as many effective media sources as possible, I can explain my ideas and let your money (even if it's all in the form of $1 contributions) be <b>predictive</b> of my performance, rather than the <b>cause</b> of it. And you can rest assured that, throughout the whole ordeal, you know exactly how competitive and viable of a candidate I really am.

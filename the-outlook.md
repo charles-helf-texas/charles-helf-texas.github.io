@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 		<section>
 		<a href="about-me.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/cash-exchange.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -39,7 +39,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="about-me.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/strained-workers.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -55,7 +55,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="about-me.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/under-table.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -72,7 +72,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="about-me.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/constitution-shred.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -92,9 +92,11 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>It's Now or Never: America Needs You</h2>
+			<h2>It's Now or Never: You Are The Answer</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>Political reform doesn't happen overnight. And it doesn't happen from the efforts of just one person. Or ten people, or a thousand. It takes tens of thousands, even hundreds of thousands, of people who are sick of letting things stay the way they are and deciding that they're going to take action. In this case, the action is simple: read my platform, and decide in earnest if what I'm saying speaks to you. If it does, message me! Say <b>anything</b> that comes to mind! And, if you can at all spare it, throw a $1 donation my way. This isn't about the money, but about making your voice heard and showing to the rest of the Texans living in this district that <b>you think I'm really on to something</b>.
+		The more of you who show that you're willing to vote for me, the more courage you give to others to do the same thing. And remember: if it doesn't look like I'm gonna make the cut, I <b>will</b> send out a poll to ask what <b>all of my supporters</b> want to do from there. Because at the end of the day, this isn't about me. This is about you, and giving you a real, honest-to-god choice that you can be confident in and be proud of. I'm going to fight like hell to be the best possible candidate I can be, and it's not out of pride or self-interest. It's because, quite frankly, it's been a long time since I've seen a Congressional candidate that I truly felt was going to bat for me and actually <b>knew</b> what they were doing.
+		Whatever you choose: make sure it's a decision you believe in <b>with all your heart</b>. And if you decide I'm it... I will do absolutely everything in my power to give you the representation and the voice you deserve.</p>
 		<ul class="actions">
 			<li><a href="index.html" class="button next">Go Back</a></li>
 		</ul>
