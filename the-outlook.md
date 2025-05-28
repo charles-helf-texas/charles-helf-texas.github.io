@@ -72,7 +72,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="about-me.html" class="image">
-			<img src="{% link assets/images/constitution-shred.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/constitution-shred.jpeg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
