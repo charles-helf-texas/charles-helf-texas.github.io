@@ -27,8 +27,8 @@ show_tile: false
   If we're going to fix this nightmarish scenario, we need to do two things: restructure business and tax law to prevent grievous abuses by large companies, and put mechanisms in place that encourage workforce investment and discourage obscene wealth funneling.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>We Can Still Salvage This</h3>
-		<p>Our federal debt is at $37 trillion. Our deficit is at $1.8 trillion. Out of the $14.7 trillion in income earned by taxpayers, the IRS collected $2.2 trillion of that as revenue. Furthermore, the total value of all wealth held in America sits at around $160 trillion. Put simply: we have a number of ways we can remedy this situation before it gets truly out of hand.</p>
+		<h3>Even Historically Stable Goods Are Now Rising</h3>
+		<p>Throughout most of the past several decades, the relative affordability of automobiles has been relatively stable. Over the past several years, however, we've seen a <a href="https://www.coxautoinc.com/market-insights/april-2025-vai/">substantial upward trend</a> in how much work and money ordinary Americans need in order to purchase a vehicle. This is also true of even basic necessities, <a href="https://www.bls.gov/charts/consumer-price-index/consumer-price-index-average-price-data.htm">like food</a>.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Reducing Debt Also Reduces Deficit</h3>
