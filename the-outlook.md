@@ -34,7 +34,7 @@ nav-menu: true
 				Beyond just the sheer amount of our excessive spending, though, is the ineffective proceses that Congress has used to try and curb it. Since 1960, <a href="https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/debt-limit">Congress has voted 78 times</a> to raise the debt ceiling. That's more than one raising every single year. On top of that, many choices in spending increases and spending cuts have done little to help the situation. As just one example, the Affordable Care Act contributes <a href="https://www.cbo.gov/publication/59273">roughly $1.8 trillion each year</a> to the federal deficit. Yet, despite health insurance companies <a href="https://truthout.org/articles/top-5-us-health-insurers-annual-profits-jumped-230-percent-since-acas-passage/">seeing record profits</a> over the past decade, Congress has made no coordinated attempt whatsoever to curb premium costs. Similarly, Medicare has been historically unable to negotiate drug prices with pharamceutical providers, despite <a href="https://www.cfr.org/blog/american-pharmaceutical-companies-still-arent-paying-tax-us">pharmaceutical companies reporting massive profits while paying little to no income tax for the past decade</a>. It wasn't until 2022 when <a href="https://www.gao.gov/products/gao-25-106996">even a modest nod</a> toward this problem was made, and Congress has still made no effort to actually get these incredibly profitable companies to pay proper income tax. These are just a handful of examples of consistent, systemic behavior of incompetence that has led us to a massive amount of debt and a dangerously deficit budget.<br /><br />
 				If we do nothing about this in the next 10 years, our debt growth will almost certainly spiral out of control, beyond our ability to repair before our country is forced to default.</p>
 				<ul class="actions">
-					<li><a href="federal-deficit.html" class="button">The Details</a></li>
+					<li><a href="federal-deficit.html" class="button">How Can We Fix This?</a></li>
 				</ul>
 			</div>
 		</div>
@@ -50,7 +50,7 @@ nav-menu: true
 				</header>
 				<p>The relative costs of housing, vehicle ownership, healthcare, insurance, and even basic necessities like food have seen substantial increases since 1980, some of them quite massive. Factored into a single Consumer Price Index, prices today have generally <a href="https://www.bls.gov/data/inflation_calculator.htm">risen by around 400%</a> (i.e. $1 in 1980 was able to buy the same amount of goods as $4 today in 2025). Incomes, however, have not kept up. Ordinary Americans over this same time period have only seen an income increase of 54% over this same time period. The result is a reality way too many of us are painfully familiar with: our incomes are buying us <b>profoundly</b> less than what our parents were able to afford at our age. For many people, the American Dream isn't so much a possibility as much as it is a cruel joke. Even for the more fortunate, though, financial stability is becoming more and more of an uncertainty. The modest wealth and security that many had worked incredibly hard for is gradually slipping away, thanks to crashing markets and sharply rising inflation. If we do nothing about this in the next 10 years, only the richest Americans will be able to live securely and comfortably in this nation.</p>
 				<ul class="actions">
-					<li><a href="class-decay.html" class="button">The Details</a></li>
+					<li><a href="class-decay.html" class="button">How Can We Fix This?</a></li>
 				</ul>
 			</div>
 		</div>
@@ -68,7 +68,7 @@ nav-menu: true
 				Through it all, legislation that Americans have actually wanted for decades (higher wages, improved job markets, reduced healthcare costs, and affordable housing, to name just a few) goes completely and shamelessly ignored. Worse, we're often given bait-and-switch legislation that promises to deliver on these needs, then either never follows through or actually makes the situation even worse. As if that weren't bad enough, we're now seeing situations where <a href="https://prospect.org/politics/2025-05-22-missouris-republican-legislators-repeal-paid-sick-leave/">state legislators are overturning ballot initiatives introduced by their constituents</a>. In nearly half of all States (including Texas), ballot initiatives (law proposals by ordinary citizens brought by popular petition) aren't even allowed.<br /><br />
 					If we do nothing about this in the next 10 years, Congress and wealthy lobbyists will be emboldened even further by the lack of action, and the status quo of "money buys laws" in Washington will only become even further entrenched in our government.</p>
 				<ul class="actions">
-					<li><a href="government-corruption.html" class="button">The Details</a></li>
+					<li><a href="government-corruption.html" class="button">How Can We Fix This?</a></li>
 				</ul>
 			</div>
 		</div>
@@ -84,7 +84,7 @@ nav-menu: true
 				</header>
 				<p>Given the already dire situation we're in, patching the holes in our country is going to be hard enough, as it is. Recently, though, a new massive problem has come up: entire branches of government (as well as some of their agencies) blatantly ignoring laws and procedures. For centuries, this country has held together because of both the decentralized legal framework and the people who believed in its effectiveness in making an America that works for everyone. Our revolutionary war was fought because our predecessors rightly recognized the inherent danger and injustice of an all-powerful individual ruling a country through whatever whim took his or her fancy. Our predecessors understood the necessity of keeping power split apart and distributed, so that no single bad actor could arbitrarily and single-handedly dismantle what was supposed to be a country founded on the right to life, liberty, and the pursuit of happiness. If we do nothing about this in the next 10 years, Democracy will fall.</p>
 				<ul class="actions">
-					<li><a href="disregard-law.html" class="button">The Details</a></li>
+					<li><a href="disregard-law.html" class="button">How Can We Fix This?</a></li>
 				</ul>
 			</div>
 		</div>
@@ -97,7 +97,7 @@ nav-menu: true
 		<header class="major">
 			<h2>It's Now or Never: You Are The Answer</h2>
 		</header>
-		<p>Political reform doesn't happen overnight. And it doesn't happen from the efforts of just one person. Or ten people, or a thousand. It takes tens of thousands, even hundreds of thousands, of people who are sick of letting things stay the way they are and deciding that they're going to take action. In this case, the action is simple: read my platform, and decide in earnest if what I'm saying speaks to you. If it does, message me! Say <b>anything</b> that comes to mind! And, if you can at all spare it, throw a $1 donation my way. This isn't about the money, but about making your voice heard and showing to the rest of the Texans living in this district that <b>you think I'm really on to something</b>.
+		<p>Political reform doesn't happen overnight. And it doesn't happen from the efforts of just one person. Or ten people, or a thousand. It takes tens of thousands, even hundreds of thousands, of people who are sick of letting things stay the way they are and deciding that they're going to take action. In this case, the action is simple: read my platform, and decide in earnest if what I'm saying speaks to you. If it does, message me! Say <b>anything</b> that comes to mind! And, if you can at all spare it, throw a $1 donation my way. This isn't about the money, but about making your voice heard and showing to the rest of the Texans living in this district that <b>you think I'm really on to something</b>. <br /><br />
 		The more of you who show that you're willing to vote for me, the more courage you give to others to do the same thing. And remember: if it doesn't look like I'm gonna make the cut, I <b>will</b> send out a poll to ask what <b>all of my supporters</b> want to do from there. Because at the end of the day, this isn't about me. This is about you, and giving you a real, honest-to-god choice that you can be confident in and be proud of. I'm going to fight like hell to be the best possible candidate I can be, and it's not out of pride or self-interest. It's because, quite frankly, it's been a long time since I've seen a Congressional candidate that I truly felt was going to bat for me and actually <b>knew</b> what they were doing.
 		Whatever you choose: make sure it's a decision you believe in <b>with all your heart</b>. And if you decide I'm it... I will do absolutely everything in my power to give you the representation and the voice you deserve.</p>
 		<ul class="actions">
