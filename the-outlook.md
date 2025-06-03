@@ -1,7 +1,7 @@
 ---
 title: The Outlook
 layout: landing
-description: 'Four core issues <br />One end result'
+description: 'Four core issues <br />One unified plan'
 image: assets/images/the-vision.jpg
 nav-menu: true
 ---
