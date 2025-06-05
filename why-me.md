@@ -6,7 +6,7 @@ image: assets/images/about-me.jpg
 nav-menu: true
 ---
 
-<h3>The Simplest Answer</h3>
+<h1>The Simplest Answer</h1>
 
 In as few words as possible: I've got the skills to solve our problems, the dedication to do right by <b>the vast majority</b> of Texans (rather than the elite few), and the integrity to outright refuse anything and everything that could compromise that. Pure and simple. If that's all you needed to hear to convince you... great! On the other hand, if you need a little more detail on those three points, then please, read on. 
 
