@@ -30,7 +30,7 @@ show_tile: false
 <div class="row">
 	<div class="4u$ 12u$(medium)">
 		<h3>Restore Strength to the Federal Minimum Wage</h3>
-		<p>When the Federal Minimum Wage was first implemented, working Americans saw the largest jump in prosperity in all of this country's history. It was in line with worker productivity and guaranteed a livable income that could reliably sustain hardworking families. Now, it's a pitiful shadow of its former self. Studies show that, if minimum wage had kept up with corporate profits, it would presently be around $25 an hour. If these massive companies want to benefit from American productivity and corporate profits, then they should be willing to pay for it. A fair day's wage for a fair day's work!</p>
+		<p>When the Federal Minimum Wage was first implemented, working Americans saw the largest jump in prosperity in all of this country's history. It was in line with worker productivity and guaranteed a livable income that could reliably sustain hardworking families. Now, it's a pitiful shadow of its former self. Studies show that, if minimum wage had kept up with corporate profits and worker productivity, it would presently be around $25 an hour. If these massive companies want to benefit from American productivity, then they should be willing to pay for it. A fair day's wage for a fair day's work!</p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Reform or Repeal The 1982 SEC Rule 10b-18</h3>
