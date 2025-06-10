@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Government Corruption
+title: Political Corruption
 image: assets/images/pic01.jpg
 nav-menu: false
 show_tile: false
