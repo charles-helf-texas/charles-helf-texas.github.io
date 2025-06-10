@@ -1,17 +1,17 @@
 # site settings
-title: "Charles Helf TX"
-subtitle: "A grassroots figure of, by, and for the ordinary Texan"
-email: charles_helf_texas@gmail.com
-description: "Let's get to know each other a little better. Believe it or not, I'm actually in this because I want to help you, rather than to help myself."
+title: "Charles Helf for Congressional House of Representatives TX-CD1"
+subtitle: "A grassroots candidate of, by, and for the ordinary Texan"
+email:
+description: "A true leader leads through example, and a true servant places others above himself"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 123 Somewhere Road
-city: Townsville
-state: TX
-zip_code: 55555
-country: United States of America
-phone: (555) 555-5555
+street_address:
+city:
+state:
+zip_code:
+country:
+phone:
 formspreeid: mpwdnyvd
 index_heading: "Before You Go: Share Your Thoughts"
 
@@ -24,11 +24,11 @@ tiles-count: 8
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/
+  GitHub:
   GitLab:
-  Google-Plus: https://plus.google.com/
+  Google-Plus:
   Instagram: https://www.instagram.com/
-  LinkedIn: https://www.linkedin.com/
+  LinkedIn:
   Twitter: https://twitter.com/
   Facebook: https://www.facebook.com/
   Slack:

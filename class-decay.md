@@ -28,26 +28,26 @@ show_tile: false
   
   If we're going to fix this nightmarish scenario, we need to do two things: restructure business and tax law to prevent grievous abuses by large companies, and put mechanisms in place that encourage workforce investment and discourage obscene wealth funneling.</p>
 <div class="row">
+	<div class="4u$ 12u$(medium)">
+		<h3>Restore Strength to the Federal Minimum Wage</h3>
+		<p>When the Federal Minimum Wage was first implemented, working Americans saw the largest jump in prosperity in all of this country's history. It was in line with worker productivity and guaranteed a livable income that could reliably sustain hardworking families. Now, it's a pitiful shadow of its former self. Studies show that, if minimum wage had kept up with corporate profits and worker productivity, it would presently be around $25 an hour. If these massive companies want to benefit from the American work ethic, then they should be willing to pay for it. A fair day's wage for a fair day's work!</p>
+	</div>
 	<div class="6u 12u$(small)">
 		<h3>Reform or Repeal The 1982 SEC Rule 10b-18</h3>
 		<p>While stock repurchases are great for investors, they're terrible for employees. Part of the reason wages have stagnated is that large businesses have devoted more and more of their profits toward <a href="https://rooseveltinstitute.org/wp-content/uploads/2020/07/RI_Stock-Buybacks-key-example-of-extractive-corporate-power-Fact-Sheet-201910.pdf">stock buybacks</a> to artificially inflate stock values, rather than employees' wages. The reason they're able to do that, in the first place, is because of SEC Rule 10b-18. This rule states that stock buybacks are an exception to the rules against market manipulation, despite the fact that buybacks are obviously used to manipulate stock prices. Reforming or repealing this rule would prevent these corporations from funneling profits away from hardworking employees.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Bring Sanity to Real Estate Investors</h3>
+		<h3>Bring Sanity to Real Estate Investment</h3>
 		<p>Today, somewhere between <a href="https://jbrec.com/insights/charting-a-22-year-roller-coaster-of-investor-activity/">23% to 25% of all homes are owned by investors</a>, rather than private residents. The results are exactly what we're seeing now: <a href="https://onlinelibrary.wiley.com/doi/10.1111/1540-6229.12427">housing prices rising sharply in the immediate short term, with rent prices soaring in the long term</a>, all outpacing ordinary Americans' incomes. This collective, large-scale activity by 'small time' investors (defined as only owning between 1 to 9 rental properties) is causing catastrophic economic damage to our hardest working citizens. Given that roughly a quarter of all homes are presently owned by investors, the solution is clear: restrict the number of secondary properties any individual can own at once.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Break Up Monopolies With Public Options</h3>
+		<h3>Allow Public Options Nationwide</h3>
 		<p>Something many people might not realize is that there have been steady, consistent efforts to prevent local governments from introducing their own low-cost alternatives to existing monopolies. In many small towns outside Texas, municipal governments have been able to establish their own internet and utility options for a <b>fraction</b> of what the local monopoly was charging. In Texas and other states, however, this activity is expressly forbidden by state law. By passing a federal law to pre-empt state law on this matter, local communities can regain power over large businesses to develop their own cost-effective options in situations where the local monopoly flat out refuses to stop price-gouging its customers.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Break Up Monoplies And Oligopolies</h3>
+		<p>Laws against monopolies and oligopolies are technically on the books; yet, the organizations tasked with enforcing them have been repeatedly and routinely defunded over the past several decades. On top of that, key provisions within these laws have often been legislated out to make breaking them up harder. Reverting these laws back to their original form and returning funding to these organizations will allow them to fight back properly. This is the only way we can get massive corporations to stop engaging in exploitative and coercive business practices.</p>
 	</div>
 </div>
 

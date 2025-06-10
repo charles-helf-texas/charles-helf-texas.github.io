@@ -1,7 +1,7 @@
 ---
 title: The Outlook
 layout: landing
-description: 'Four core issues <br />One unified plan'
+description: 'Four core issues:<br /> One unified plan'
 image: assets/images/the-vision.jpg
 nav-menu: true
 ---
@@ -64,13 +64,13 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Corporate Corruption Ensures Most of Congress Ignores Us</h3>
+					<h3>Political Corruption Ensures Most of Congress Ignores Us</h3>
 				</header>
 				<p>Excessive money in American politics is nothing new. Comedians time and again come up with clever quips about what we all understand to basically be legalized bribery. Politicians receive exorbitant donations from dozens of large businesses through corporate PACs, then 'coincidentally' pass laws later that fit perfectly within those companies' interests. We hear and see examples of this all the time. And we pay the price for their gains. Factories get emissions regulations removed to cut costs, and this causes spikes in cancer for the people who live and work nearby. Health providers add legal provisions to allow them to deny more claims, and this causes people to either have to pay for treatment out of pocket, get sicker, or just straight up die. Mixed in with all of these actions that cause direct harm to people is legislation that enriches companies at our expense through bloated government contracts with the private sector, or redirects funding from more important and useful programs into special deductions and exemptions for the wealthiest individuals and organizations. Often, Congress members directly benefit through insider trading deals with the companies that benefit from their bills. <br /><br />
 				Through it all, legislation that Americans have actually wanted for decades (higher wages, improved job markets, reduced healthcare costs, and affordable housing, to name just a few) goes completely and shamelessly ignored. Worse, we're often given bait-and-switch legislation that promises to deliver on these needs, then either never follows through or actually makes the situation even worse. As if that weren't bad enough, we're now seeing situations where <a href="https://prospect.org/politics/2025-05-22-missouris-republican-legislators-repeal-paid-sick-leave/">state legislators are overturning ballot initiatives introduced by their constituents</a>. In nearly half of all States (including Texas), ballot initiatives (law proposals by ordinary citizens brought by popular petition) aren't even allowed. This has led to a situation where the laws passed by State legislatures are often far out of touch with what the majority of constituents think. It's also a direct result of legislators catering to lobbyists, special interests, and wealthy donors, rather than the will of the people. Rather than even consider proposing legislation to prohibit or punish this behavior, Congress has historically done quite the opposite. <br /><br />
-					If we do nothing about this in the next 10 years, Congress and wealthy lobbyists will be emboldened and empowered even further, and the status quo of "money buys laws" in Washington will only become more deeply entrenched in our government.</p>
+				If we do nothing about this in the next 10 years, Congress and wealthy lobbyists will be emboldened and empowered even further, and the status quo of "money buys laws" in Washington will only become more deeply entrenched in our government.</p>
 				<ul class="actions">
-					<li><a href="government-corruption.html" class="button">How Can We Fix This?</a></li>
+					<li><a href="political-corruption.html" class="button">How Can We Fix This?</a></li>
 				</ul>
 			</div>
 		</div>
@@ -84,7 +84,8 @@ nav-menu: true
 				<header class="major">
 					<h3>Disregard for Law and Procedure Kills Our Democracy</h3>
 				</header>
-				<p>Given the already dire situation we're in, patching the holes in our country is going to be hard enough. Recently, though, a new massive problem has come up: entire branches of government (as well as some of their agencies) blatantly ignoring existing laws and procedures. For centuries, this country has held together because of both the decentralized legal framework and the people who believed in its effectiveness in making an America that works for everyone. Our revolutionary war was fought because our predecessors rightly recognized the inherent danger and injustice of an all-powerful individual ruling a country through whatever whim took his or her fancy. Our predecessors understood the necessity of keeping power split apart and distributed, so that no single bad actor could arbitrarily and single-handedly dismantle what was supposed to be a country founded on the right to life, liberty, and the pursuit of happiness. If we do nothing about this in the next 10 years, Democracy will fall.</p>
+				<p>Given the already dire situation we're in, patching the holes in our country is going to be hard enough. Recently, though, a new massive problem has come up: entire branches of government (as well as some of their agencies) blatantly ignoring existing laws and procedures. For centuries, this country has held together because of both the decentralized legal framework and the people who believed in its effectiveness in making an America that works for everyone. Our revolutionary war was fought because our predecessors rightly recognized the inherent danger and injustice of an all-powerful individual ruling a country through whatever whim took his or her fancy. Our predecessors understood the necessity of keeping power split apart and distributed, so that no single bad actor could arbitrarily and single-handedly dismantle what was supposed to be a country founded on the right to life, liberty, and the pursuit of happiness.<br /><br />
+				If we do nothing about this in the next 10 years, the corruption will spread until it has taken over everything, and Democracy will fall.</p>
 				<ul class="actions">
 					<li><a href="lawless-agencies.html" class="button">How Can We Fix This?</a></li>
 				</ul>
@@ -99,9 +100,9 @@ nav-menu: true
 		<header class="major">
 			<h2>It's Now or Never: You Are The Answer</h2>
 		</header>
-		<p>Political reform doesn't happen overnight. And it doesn't happen from the efforts of just one person. Or ten people, or a thousand. It takes tens of thousands, even hundreds of thousands, of people who are sick of letting things stay the way they are and deciding that they're going to take action. In this case, the action is simple: read my platform, and decide in earnest if what I'm saying speaks to you. If it does, message me! Say <b>anything</b> that comes to mind! And, if you can at all spare it, throw a $1 donation my way. This isn't about the money, but about making your voice heard and showing to the rest of the Texans living in this district that <b>you think I'm really on to something</b>. <br /><br />
-		The more of you who show that you're willing to vote for me, the more courage you give to others to do the same thing. And remember: if it doesn't look like I'm gonna make the cut, I <b>will</b> send out a poll to ask what <b>all of my supporters</b> want to do from there. Because at the end of the day, this isn't about me. This is about you, and giving you a real, honest-to-god choice that you can be confident in and be proud of. I'm going to fight like hell to be the best possible candidate I can be, and it's not out of pride or self-interest. It's because, quite frankly, it's been a long time since I've seen a Congressional candidate that I truly felt was going to bat for me and actually <b>knew</b> what they were doing.
-		Whatever you choose: make sure it's a decision you believe in <b>with all your heart</b>. And if you decide I'm it... I will do absolutely everything in my power to give you the representation and the voice you deserve.</p>
+		<p>Political reform doesn't happen overnight. And it doesn't happen from the efforts of just one person. Or ten people, or a thousand. It takes tens of thousands, even hundreds of thousands, of people who are sick of letting things stay the way they are and deciding that they're going to take action. In this case, the action is simple: read my platform, and decide in earnest if what I'm saying speaks to you. If it does, message me! Say <b>anything</b> that comes to mind! And, if you think I'm the best person for the job and can at all spare it, throw a $1 donation my way. This isn't about the money, but about making your voice heard and showing to the rest of the Texans living in this district that <b>you think I'm really on to something</b>.<br /><br />
+		The more of you who show that you're willing to vote for me, the more courage you give to others to do the same thing. And remember: if it doesn't look like I'm gonna make the cut, I <b>will</b> send out a poll to ask what <b>all of my supporters</b> want to do from there. Because at the end of the day, this isn't about me. This is about you, and giving you a real, honest-to-god choice that you can be confident in and be proud of. I'm going to fight like hell to be the best possible candidate I can be, and it's not out of pride or self-interest. It's because, quite frankly, it's been a long time since I've seen a Congressional candidate that I truly felt was both truly working for us and also actually <b>knew what they were doing</b>.<br /><br />
+		Whatever you choose: make sure it's a decision you believe in <b>with all your heart</b>. And if you decide that I'm it, I'll do absolutely everything in my power to give you the representation and the voice that you deserve.</p>
 		<ul class="actions">
 			<li><a href="index.html" class="button next">Go Back</a></li>
 		</ul>
