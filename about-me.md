@@ -54,4 +54,4 @@ There's a colossal economic disaster looming over the horizon, and if it hits, i
 
 I'm not here to become a career politician. I'm not here for attention or publicity. I just want to fix a couple serious problems that will affect the vast majority of people in this country, including my neighbors here in the Texas 1st Congressional District. I want to get rid of the systemic corruption that brought us to this point, in the first place. And maybe, hopefully, leave the political space a little cleaner than I found it, in the process.
 
-I'm Charles Helf, and I'm running for Congress to put <b>you</b> back in charge of your country. Not to <b>run it to enrich myself</b>, like so many others have chosen to do.
+I'm Charles Helf, and I'm running for Congress to put <b>you</b> back in charge of your country. Not to <b>enrich myself and my donors</b>, like so many others have chosen to do.
