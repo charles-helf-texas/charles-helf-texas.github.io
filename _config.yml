@@ -1,8 +1,8 @@
 # site settings
-title: "Charles Helf for Congressional House of Representatives TX-CD1"
+title: "Charles Helf for Congress, House Rep TX-CD1"
 subtitle: "A grassroots candidate of, by, and for the ordinary Texan"
 email:
-description: "A true leader leads through example, and a true servant places others above himself"
+description: "A true leader leads through example, and a true servant places all others above himself"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -26,11 +26,11 @@ tiles-count: 8
 socials:
   GitHub:
   GitLab:
-  Google-Plus:
-  Instagram: https://www.instagram.com/
+  Google-Plus: https://www.tiktok.com/@charles.helf.texas
+  Instagram: https://www.instagram.com/charles.helf.texas/
   LinkedIn:
-  Twitter: https://twitter.com/
-  Facebook: https://www.facebook.com/
+  Twitter: https://bsky.app/profile/charles-helf-texas.bsky.social
+  Facebook: https://www.facebook.com/charles.helf.texas/
   Slack:
 
 # build settings
