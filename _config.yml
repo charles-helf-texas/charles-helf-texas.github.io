@@ -26,12 +26,16 @@ tiles-count: 8
 socials:
   GitHub:
   GitLab:
-  Google-Plus: https://www.tiktok.com/@charles.helf.texas
+  Google-Plus:
   Instagram: https://www.instagram.com/charles.helf.texas/
   LinkedIn:
-  Twitter: https://bsky.app/profile/charles-helf-texas.bsky.social
+  Twitter:
   Facebook: https://www.facebook.com/charles.helf.texas/
   Slack:
+  TikTok: https://www.tiktok.com/@charles.helf.texas
+  BlueSky: https://bsky.app/profile/charles-helf-texas.bsky.social
+  YouTube: https://www.youtube.com/channel/UCp-mMhfP6ZI1z9dbOrjcAHA
+  X: https://bsky.app/profile/charles-helf-texas.bsky.social
 
 # build settings
 markdown: kramdown
