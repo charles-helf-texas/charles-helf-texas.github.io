@@ -2,7 +2,7 @@
 title: "Charles Helf for Congress, House Rep TX-CD1"
 subtitle: "A grassroots candidate of, by, and for the ordinary Texan"
 email:
-description: "A true leader leads through example, and a true servant places all others above himself"
+description: "A true leader leads through example, and a true servant places all others first"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -27,15 +27,13 @@ socials:
   GitHub:
   GitLab:
   Google-Plus:
-  Instagram: https://www.instagram.com/charles.helf.texas/
   LinkedIn:
-  Twitter:
-  Facebook: https://www.facebook.com/charles.helf.texas/
   Slack:
-  TikTok: https://www.tiktok.com/@charles.helf.texas
-  BlueSky: https://bsky.app/profile/charles-helf-texas.bsky.social
+  Facebook: https://www.facebook.com/charles.helf.texas/
+  Twitter: https://bsky.app/profile/charles-helf-texas.bsky.social
+  Tumblr: https://www.tiktok.com/@charles.helf.texas
+  Instagram: https://www.instagram.com/charles.helf.texas/
   YouTube: https://www.youtube.com/channel/UCp-mMhfP6ZI1z9dbOrjcAHA
-  X: https://bsky.app/profile/charles-helf-texas.bsky.social
 
 # build settings
 markdown: kramdown
