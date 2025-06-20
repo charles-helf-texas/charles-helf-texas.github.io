@@ -6,7 +6,9 @@ image: assets/images/about-me.jpg
 nav-menu: true
 ---
 
-<h2>Getting Through School</h2>
+<header class="major">
+  <h2>Getting Through School</h2>
+</header>
 
 While a naturally private person, I clearly can't remain completely private anymore. You need to know at least a little bit about who I am before you can make up your mind about me. To respect the time that you're giving me right now, I'll try and focus only on the biggest details.
 
