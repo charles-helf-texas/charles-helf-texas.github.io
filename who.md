@@ -66,6 +66,6 @@ As if that weren't bad enough, our current Representative has failed to fight fo
 
 We need a Representative who actually <b>gets</b> that, rather than one who will sell out at the drop of a hat.
 
-I'm not here to become a career politician. I'm not here for attention or publicity. I just want to fix the handful of serious problems that will affect the vast majority of people in this country, including my neighbors here in Texas' 1st Congressional District. I want to get rid of the systemic corruption that brought us to this point, in the first place. And maybe, hopefully, leave the political space a little cleaner than I found it, in the process.
+I'm not here to become a career politician. I'm not here for attention or publicity. I just want to fix the handful of serious problems threatening this country's people, including my neighbors here in Texas' 1st Congressional District. I want to get rid of the systemic corruption that brought us to this point, in the first place. And maybe, hopefully, leave Congress a little cleaner than I found it, in the process.
 
 I'm Charles Helf, and I'm running for Congress to put all of you back in charge of <b>your</b> country. Not to enrich myself, serve powerful interests, or push a personal agenda down peoples' throats, like <b>so many others</b> have chosen to do.
