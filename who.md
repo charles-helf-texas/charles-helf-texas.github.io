@@ -6,7 +6,9 @@ image: assets/images/about-me.jpg
 nav-menu: true
 ---
 
-<h2>Getting Through School</h2>
+<header class="major">
+  <h2>Getting Through School</h2>
+</header>
 
 While a naturally private person, I clearly can't remain completely private anymore. You need to know at least a little bit about who I am before you can make up your mind about me. To respect the time that you're giving me right now, I'll try and focus only on the biggest details.
 
@@ -18,7 +20,9 @@ Throughout this time, I worked low-paying jobs as a fast food worker, as an assi
 
 I was the kind of person to give hitch-hikers a ride in the summer heat. To buy a meal for homeless people begging on the street corner. To just talk with others and hear them out. Because I always understood that, if my own life were just a little different, that could be me, instead.
 
-<h2>Professional Insights</h2>
+<header class="major">
+  <h2>Professional Insights</h2>
+</header>
 
 When I eventually started working as a software developer, the difference in my entire existence was... a little overwhelming. Going from a peak of $10.50 an hour to $28.50 an hour utterly redefined my life. Immediately, some of my most pressing concerns disappeared. I was also able to finally begin taking care of problems that, up until that point, had gone unaddressed for years. It also finally sunk in just how oppressive poverty could really be. And as time went on, my hourly pay just kept going up: $35, $42, $65... until I reached a peak at $75 an hour.
 
@@ -32,26 +36,36 @@ One of the other big reasons for my mixed feelings of relief and guilt? The real
 
 This means that the 20% to 40% of Americans working those poverty jobs are, in effect, <b>trapped</b>.
 
-<h2>The Reason I'm Here</h2>
+<header class="major">
+  <h2>The Reason I'm Here</h2>
+</header>
 
 For years now, I've seen this. Yet, I did nothing, because I didn't think there was anything I could do.
 
-That didn't stop me from at least paying attention to what was going on. I've spent considerable time observing the many recorded Congressional committee hearings on various bills, amendments, and proposals. I've listened closely to hundreds of arguments. I've read the direct texts of much legislation, as well as reading or listening to various expert opinions for different perspectives. And, perhaps most importantly, I've spoken with people and kept in touch over time to see what kinds of real effects these laws were having on them.
+That didn't stop me from at least paying attention to what was going on. I've spent considerable time observing the many recorded Congressional committee hearings on various bills, amendments, and proposals. I've listened closely to hundreds of arguments given on the committee, House, and Senate floors, then compared them to existing research and various professionals' opinions. I've read the direct texts of much of the legislation, as well as reading or listening to various legal breakdowns from more practiced attorneys to double check my understanding. And, perhaps most importantly, I've spoken with people and kept in touch over time to see what kinds of real effects these laws were having on them.
 
-I can't stress enough how often I saw firsthand the way certain laws were misrepresented. How promises of boosting employment and wages instead led to increased stock buybacks and raises in executive / administrative compensation. How reductions in various taxes and regulations lead to large companies experiencing the largest rates of growth and profitability in American history, all while ordinary Americans were left behind with nothing to show for the 'trickle down' effect. After years of paying close attention, I'm confident in arguing that Congress is broken. The vast majority of laws passed to benefit the working and middle classes, in actuality, did next to nothing for them. At the same time, they benefited the wealthiest individuals and companies to a far, far greater extent.
+I can't stress enough how often I saw firsthand the way certain laws were misrepresented. How promises of boosting employment and wages instead led to increased stock buybacks and raises in executive / administrative compensation. How reductions in various taxes and regulations led to large companies experiencing the largest rates of growth and profitability in American history, all while ordinary Americans were left behind with nearly nothing to show for the 'trickle down' effect. After years of paying close attention, I'm confident in telling you that Congress is broken. The vast majority of laws passed to benefit the working and middle classes, in actuality, have done next to nothing for them. At the same time, they benefited the wealthiest individuals and companies beyond anything seen before in our nation's history.
 
 But, what's perhaps most frightening of all is that these laws came with a heavy cost: sending our Federal debt surging to record heights at record speeds.
 
 When a country's debt gets too high for it to pay off, there are really only three options to fix the issue: refuse to pay, renegotiate the debt, or print off tons of money to 'pay' the loans down. These are all bad options. We've seen them in action when other countries have defaulted on their debt. In all options, lenders won't lend as often, if at all. If our government decides to print more money, this also has the effect of causing surging inflation while also devaluing the currency in the global exchange. This would be catastrophic for the United States. Many Americans who weren't struggling before will suddenly be faced with substantial financial hardships. And Americans who were already struggling before will almost certainly find themselves going under.
 
-I don't want that to happen. And I don't want to just stand by and hope, either. I want to try and do <b>something</b> to stop it before it happens.
+What's worse, this paves the way for bad actors in government to destroy our institutions and replace them with blind, totalitarian obedience. In nearly every previous instance where a country descended from some form of democracy into autocracy, those countries were in the middle of economic disaster. People were so desperate for salvation that they were willing to accept anything, so long as it kept them afloat. This doesn't just lead to atrocities committed against other nations by totalitarian rulers: it also leads to a culture of corruption and brutality <b>against the citizens themselves</b>. People with any amount of power can settle personal grudges violently and get away with it. We saw this in Soviet Russia. We saw this in Nazi Germany. We saw this in Dictatorial Iraq. And we're beginning to see it here in our very own America.
 
-<h2>The Point</h2>
+I don't want <b>any</b> of that to happen. And I don't want to just stand by and hope, either. I want to try and do <b>something</b> to stop it before it happens.
+
+<header class="major">
+  <h2>The Point</h2>
+</header>
 
 It doesn't matter to me that I'm financially stable now. Or that I'll still be financially stable, even if inflation were to go completely through the roof. Because no matter how good my own situation is, other people are still struggling and suffering. I've finally reached a point in my life where I <b>can't</b> just keep saying, "There's nothing I can do to fix this". I can't look away from the people who are still struggling and giving it everything they've got to get to <b>some</b> measure of stability. I also can't turn away from those who have worked themselves to the bone for far, far longer and harder than I did, only to still be just barely at where I am now. People who, unlike me, would be sent right back to fighting to survive if our country continues its current course.
 
-There's a colossal economic disaster looming over the horizon, and if it hits, it will hit <b>hard</b>. Congress has demonstrated that they aren't willing to even come close to balancing the budget. Not in any way that will meaningfully prevent it. That includes Nathaniel Moran, our current Representative, who has unfortunately voted repeatedly and consistently to raise spending (and thus, our deficit) by even more, all for the sake of making the rich even richer. A budget that's already out-of-balance can't be balanced by causing net <b>increases</b> to spending. And it <b>especially</b> can't be balanced if the only cuts being made are <b>cuts to low-cost programs like Social Security, Medicare, and Veteran's Affairs</b>; programs that disproportionately <b>provide way, way more value to Americans than they actually cost us</b>. 
+There's a set of life-changing, history-defining disasters looming over the horizon, and if they hit, they will hit <b>hard</b>. Congress has demonstrated that they aren't willing to even come close to balancing the budget. Not in any way that will meaningfully prevent it. That includes Nathaniel Moran, our current Representative, who has unfortunately voted repeatedly and consistently to raise our debt by even more, all for the sake of making the rich even richer. An already out-of-balance budget can't be balanced by <b>increasing</b> spending. Nor can it be balanced by only cutting low-cost programs like Social Security, Medicare, and Veterans' Affairs, which provide <b>way, way more value to Americans</b> than they actually cost us.
 
-I'm not here to become a career politician. I'm not here for attention or publicity. I just want to fix a couple serious problems that will affect the vast majority of people in this country, including my neighbors here in the Texas 1st Congressional District. I want to get rid of the systemic corruption that brought us to this point, in the first place. And maybe, hopefully, leave the political space a little cleaner than I found it, in the process.
+As if that weren't bad enough, our current Representative has failed to fight for the most basic tenets of our law and Constitution. In the face of administration that has repeatedly disregarded judicial orders, exceeded its authority over legislative offices, filed lawsuits against any organization that dares have a different opinion, and even deployed the military against its own people, Nathaniel Moran didn't fight back or even object: he submitted to the display of power and <b>bent the knee</b>. We are a country birthed from rejecting tyranny and demanding fair representation. We are a nation that fervently believes in a limited government whose sole purpose is to protect the people, rather than control them.
 
-I'm Charles Helf, and I'm running for Congress to put <b>you</b> back in charge of <b>your country</b>. Not to <b>enrich myself and my donors</b>, like so many others have chosen to do.
+We need a Representative who actually <b>gets</b> that, rather than one who will sell out at the drop of a hat.
+
+I'm not here to become a career politician. I'm not here for attention or publicity. I just want to fix the handful of serious problems threatening this country's people, including my neighbors here in Texas' 1st Congressional District. I want to get rid of the systemic corruption that brought us to this point, in the first place. And maybe, hopefully, leave Congress a little cleaner than I found it, in the process.
+
+I'm Charles Helf, and I'm running for Congress to put all of you back in charge of <b>your</b> country. Not to enrich myself, serve powerful interests, or push a personal agenda down peoples' throats, like <b>so many others</b> have chosen to do.
