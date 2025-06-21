@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How We Can Succeed
-description: From the smallest of seeds<br /> The most bountiful fruits
+title: How I'm Running
+description: Progress comes from work<br /> One step at a time
 image: assets/images/the-movement.jpg
 nav-menu: true
 ---
