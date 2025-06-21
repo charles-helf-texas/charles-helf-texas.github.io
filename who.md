@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who I Am
-description: A not-so-short biography
+description: And how it brought me here
 image: assets/images/about-me.jpg
 nav-menu: true
 ---
