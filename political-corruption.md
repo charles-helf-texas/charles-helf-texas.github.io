@@ -37,7 +37,7 @@ show_tile: false
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Impose Stricter Definitions on Acceptable Campaign Expenditures</h3>
-		<p>Candidates traveling their deserve to have somewhere to eat and sleep on the campaign trail, but modern campaigns have lost all sense of what's reasonable. The occasional $30 sit-down restaurant meal isn't excessive. Frequent $100+ dinners at the priciest establishments around is. The point of being allowed to spend campaign money on food, lodging, and transportation is to facilitate face-to-face connection between candidates and constituents, not turn a political bid into an all-expense-paid vacation. In a landscape where large businesses wield massive influence via campaign finance, having tightened expenditure definitions is just common sense.</p>
+		<p>Candidates deserve to have somewhere to eat and sleep on the campaign trail, but modern campaigns have lost all sense of what's reasonable. The occasional $30 sit-down restaurant meal isn't excessive. Frequent $100+ dinners at the priciest establishments around is. The point of being allowed to spend campaign money on food, lodging, and transportation is to facilitate face-to-face connection between candidates and constituents, not turn a political bid into an all-expense-paid vacation. In a landscape where large businesses wield massive influence via campaign finance, having tightened expenditure definitions is just common sense.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Strengthen FEC to Enforce Current Rules</h3>
