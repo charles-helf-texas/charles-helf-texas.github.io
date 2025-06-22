@@ -51,6 +51,9 @@ show_tile: false
 	</div>
 </div>
 
+<ul class="actions">
+	<li><a href="issues.html" class="button next">Go Back</a></li>
+</ul>
 
 </div>
 </section>
