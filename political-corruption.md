@@ -22,11 +22,11 @@ show_tile: false
 
 <!-- Break -->
 <div class="row">
-	<div class="6u 12u$(medium)">
+	<div class="4u 12u$(small)">
 		<h3>Require Full Transparency in Campaign Expenditures</h3>
 		<p>Put bluntly, the campaign reporting required by the FEC is bare bones. Because of this, the most egregious examples of extravagant campaign spending are incredibly difficult to unearth. Expenses like golf club memberships and tickets to opera theatre shows evade the public eye when they should be rightly reported and published for the shameless instances of improper gifting that they are. No one running for public office has any reasonable excuse for trying to hide where their campaign money is coming from or what they're spending it on.</p>
 	</div>
-	<div class="6u 12u$(medium)">
+	<div class="4u 12u$(small)">
 		<h3>Impose Stricter Definitions on Acceptable Campaign Expenditures</h3>
 		<p>Candidates deserve to have somewhere to eat and sleep on the campaign trail, but modern campaigns have lost all sense of what's reasonable. The occasional $30 sit-down restaurant meal isn't excessive. Frequent $100+ dinners at the priciest establishments around is. The point of being allowed to spend campaign money on food, lodging, and transportation is to facilitate face-to-face connection between candidates and constituents, not turn a political bid into an all-expense-paid vacation. In a landscape where large businesses wield massive influence via campaign finance, having tightened expenditure definitions is just common sense.</p>
 	</div>
@@ -34,11 +34,11 @@ show_tile: false
 		<h3>Strengthen FEC to Enforce Current Rules</h3>
 		<p>Today, the FEC is grievously underfunded and understaffed for its role in examining election concerns and responding to actual violations. What few regulations there are often aren't even enforced, due to the extreme shortages. As with any oversight group, they need enough resources to be able to do their jobs. Because the FEC is so comparatively small, legislation bolstering their resources would require next to nothing of the taxpayers. In turn, it could save voters millions of dollars as candidates engaging in improper behavior are caught, fined, and even forced to return contributions for their misconduct.</p>
 	</div>
-	<div class="4u 12u$(small)">
+	<div class="6u 12u$(medium)">
 		<h3>Permanently Ban Former Legislators From Lobbying</h3>
 		<p>Small handfuls of Congress members have, from time to time, recognized the blatant conflict of interest in former lawmakers getting large salaries for helping special interests get their own laws introduced and passed. This would be a powerful step toward removing a substantial source of corruption from our lawmaking process. I would support not only legislation that prevents them from taking such jobs, but furthermore propose legislation that heavily criminalizes the act of giving rich individuals and businesses special access to Congress. Money should not buy laws in any capacity, and this needs to be reflected in our criminal code.</p>
 	</div>
-	<div class="4u 12u$(small)">
+	<div class="6u 12u$(medium)">
 		<h3>Expand Criminal Definitions of Bribery for Lawmakers</h3>
 		<p>The existing legal definitions focus only on the clumsiest and most immediate forms of quid-pro-quo and give very little recourse for the more insidious form we see today: delayed, long-term gratification. Because Congress members wield such incredible power, it stands to reason that they should be held to a much higher standard than the ordinary citizen. One of the best ways to shut this down is to deny former Congress members access to the salaried positions their donors offer them after retiring from office. In that spirit, I'll introduce and support legislation that imposes a minimum 5 year prohibition on receiving compensation from any of their donors for any reason (including employment), punishable by harsher fines and sentencing than normal.</p>
 	</div>
