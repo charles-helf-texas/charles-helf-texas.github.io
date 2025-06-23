@@ -2,7 +2,7 @@
 layout: post
 title: How I'm Running
 description: Progress comes from work<br /> One step at a time
-image: assets/images/the-movement.jpg
+image: assets/images/how-progress.png
 nav-menu: true
 ---
 
