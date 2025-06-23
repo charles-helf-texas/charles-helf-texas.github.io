@@ -1,20 +1,11 @@
 ---
-layout: page
-title: Lawless Agencies
+layout: post
+title: Democracy Requires Agencies That Follow the Laws
 image: assets/images/constitution-shred.jpeg
 nav-menu: false
 show_tile: false
 ---
 
-<!-- Main -->
-<div id="main" class="alt">
-
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Democracy Requires Agencies That Follow the Laws</h1>
-		</header>
 
 <!-- Content -->
 <h2 id="content">The Threat Lawlessness Poses</h2>
@@ -46,9 +37,4 @@ show_tile: false
 		<h3>Prevent Further Abuse and Exploitation of Constitution</h3>
 		<p>There are a variety of miscellaneous acts and provisions that, when given no restrictions, have been used corruptly. Presidential pardons handed out as favors to allies and family members. Wars started without Congress' approval, purely by technicality of not officially declaring them 'wars'. Officials in all branches being exempt from criminal prosecution, so long as they're 'doing their job'. Judgments being rendered final and immutable, even if they were clearly the result of judicial corruption. We need laws specifically to handle these (and other) kinds of abuses to preempt further erosion of our democracy into authoritarianism.</p>
 	</div>
-</div>
-
-
-</div>
-</section>
 </div>
