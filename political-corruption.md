@@ -1,20 +1,11 @@
 ---
-layout: page
+layout: post
 title: Political Corruption
-image: assets/images/pic01.jpg
+image: assets/images/under-table.jpg
 nav-menu: false
 show_tile: false
 ---
 
-<!-- Main -->
-<div id="main" class="alt">
-
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>How Money Silences Our Voices</h1>
-		</header>
 
 <!-- Content -->
 <h2 id="content">A Quick Dive into Money and Politics</h2>
@@ -56,7 +47,3 @@ show_tile: false
 <ul class="actions">
 	<li><a href="issues.html" class="button next">Go Back</a></li>
 </ul>
-
-</div>
-</section>
-</div>
