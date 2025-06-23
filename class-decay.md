@@ -1,20 +1,10 @@
 ---
-layout: page
-title: Class Decay
-image: assets/images/pic01.jpg
+layout: post
+title: Wealth and Class in the Modern United States
+image: assets/images/strained-workers.jpeg
 nav-menu: false
 show_tile: false
 ---
-
-<!-- Main -->
-<div id="main" class="alt">
-
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Wealth and Class in the Modern United States</h1>
-		</header>
 
 <!-- Content -->
 <h2 id="content">Why is the Ordinary Texan's Purchasing Power So Low?</h2>
@@ -54,8 +44,3 @@ show_tile: false
 <ul class="actions">
 	<li><a href="issues.html" class="button next">Go Back</a></li>
 </ul>
-
-
-</div>
-</section>
-</div>
