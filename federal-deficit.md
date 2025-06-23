@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Federal Deficit
 image: assets/images/pic01.jpg
 nav-menu: false
