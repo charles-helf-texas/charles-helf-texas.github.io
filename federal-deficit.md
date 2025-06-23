@@ -24,19 +24,19 @@ show_tile: false
 
 <!-- Break -->
 <div class="row">
-	<div class="4u$ 12u$(medium)">
+	<div class="4u 12u$(medium)">
 		<h3>Root Out the Fraudsters</h3>
 		<p>Federal oversight and inspection agencies dedicated to rooting out corruption and fraud need to be strengthened so that they can successfully uncover and prosecute the businesses shamelessly taking advantage of taxpayer dollars. We also need to strengthen the laws so that resulting penalties hit these companies hard enough that they never defraud us again, rather than just serving as a minor annoyance that they can ignore.</p>
 	</div>
-	<div class="4u$ 12u$(small)">
+	<div class="4u 12u$(small)">
 		<h3>Shake Down the Freeloaders</h3>
 		<p>The IRS and associated agencies need to not only have their mission statement redirected toward targeting the most egregious tax evaders, but they also need to be given the resources and personnel needed to win complex, protracted legal battles against unimaginably wealthy tax evaders. We also need to stop buying into the lie that the richest individuals and organizations are somehow the ones suffering the most, and raise their taxes to reflect their true responsibilities.</p>
 	</div>
-	<div class="6u$ 12u$(medium)">
+	<div class="6u 12u$(medium)">
 		<h3>Limit Aid to Those in Genuine Need</h3>
 		<p>As just one example: the 2017 Tax Cuts cost taxpayers $450 billion each year. $97 billion goes to earners in the top tax bracket. $76 billion is split among earners in all the lower tax brackets. The remaining $277 billion goes mostly to large businesses in the form of tax breaks. We can keep the $100 billion that goes out to people and small businesses who genuinely need it, then cut the remaining $350 billion from our deficit. We can apply this cost-saving strategy to all major legislation.</p>
 	</div>
-	<div class="4u$ 12u$(small)">
+	<div class="6u 12u$(small)">
 		<h3>Give Federal Agencies True Bargaining Power</h3>
 		<p>For many government contracts, the capacity to debate costs with contractors is grossly limited. This leads to preemptive agreements that often upcharge the taxpayers by incredible amounts for materials and personnel. Empowering our military and civilian agencies alike to dig deeper into contract proposal costs and request amendments based on other data would go a long way toward preventing waste before it even happens, in the first place.</p>
 	</div>
