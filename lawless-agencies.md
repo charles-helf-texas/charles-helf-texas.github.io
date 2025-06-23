@@ -21,19 +21,19 @@ show_tile: false
 
 <!-- Break -->  
 <div class="row">
-	<div class="6u 12u$(small)">
+	<div class="4u 12u$(small)">
 		<h3>Allow Constituents to Unseat Legislators</h3>
 		<p>Currently, there's only one remedy for situations where a Congress member might be an active threat to democracy: Congress itself This is a clear and obvious conflict of interest, not to mention pointless in situations where Congress has numerous bad actors. Citizens in all states need to be able to take direct action through a special petition vote to Congress. If 3/5 of registered voters agree that the Congress member in question has violated their sworn oath of office, that legislator must be removed immediately, and a special election held promptly.</p>
 	</div>
-	<div class="4u 12u$(medium)">
+	<div class="4u 12u$(small)">
 		<h3>Reduce Partisanship Through Anti-Tyranny Laws</h3>
 		<p>Too many times, Congress has decided to ignore their duty to the Constitution because the executive administration was on their team. That needs to stop immediately. To combat this, we need laws clearly defining the many egregious offenses of current and previous administrations as examples of overreach. We also need laws forcing Congress to take action against such steps toward tyranny, up to and including criminal penalties for legislators who refuse to do their Constitutionally-mandated duty and instead choose to defend authoritarianism.</p>
 	</div>
-	<div class="6u$ 12u$(small)">
+	<div class="6u 12u$(medium)">
 		<h3>Restore Watchdog Agencies' Independence</h3>
 		<p>The actions of current and previous administrations are rife with examples of both the legislative and executive branches not only politicizing oversight organization efforts, but outright sabotaging them when it fits their needs. History has shown that investigative groups are too vulnerable when left under their control. To correct against this weakness, their independence must be guaranteed by law, with clear definitions of the various ways this independence has been subverted in the past and harsh criminal penalties for such behavior.</p>
 	</div>
-	<div class="4u 12u$(medium)">
+	<div class="6u 12u$(medium)">
 		<h3>Prevent Further Abuse and Exploitation of Constitution</h3>
 		<p>There are a variety of miscellaneous acts and provisions that, when given no restrictions, have been used corruptly. Presidential pardons handed out as favors to allies and family members. Wars started without Congress' approval, purely by technicality of not officially declaring them 'wars'. Officials in all branches being exempt from criminal prosecution, so long as they're 'doing their job'. Judgments being rendered final and immutable, even if they were clearly the result of judicial corruption. We need laws specifically to handle these (and other) kinds of abuses to preempt further erosion of our democracy into authoritarianism.</p>
 	</div>

@@ -2,7 +2,7 @@
 layout: post
 title: Who I Am
 description: And how it brought me here
-image: assets/images/me-01.jpg
+image: assets/images/me-02.jpg
 nav-menu: true
 ---
 
