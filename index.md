@@ -19,3 +19,21 @@ Since our current Representative, Nathaniel Moran, refuses to do that, <b>I'll</
 Democracy in America is at risk of dying out because the people running the country stopped listening to you. And because of that, many of you learned to stop speaking. Through their actions, words, and attitudes, they taught you that your voices didn't matter.
 
 Let's change that now. Together.
+
+<!-- A counter added for reasons -->
+<div class="table-wrapper">
+	<table class="alt">
+		<thead>
+			<tr>
+				<th>Total Contributors</th>
+				<th>Total Contributions</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>0</td>
+				<td>$0.00</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
