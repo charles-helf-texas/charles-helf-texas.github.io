@@ -1,17 +1,17 @@
 # site settings
 title: "Charles Helf for Congress, House Rep TX-CD1"
 subtitle: "A grassroots candidate of, by, and for the ordinary Texan"
-email:
+email: To be determined
 description: "A true leader leads through example, and a true servant places all others first"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address:
+street_address: To be determined
 city:
 state:
 zip_code:
 country:
-phone:
+phone: To be determined
 formspreeid: mpwdnyvd
 index_heading: "Before You Go: Share Your Thoughts"
 
