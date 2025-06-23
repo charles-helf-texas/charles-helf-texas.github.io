@@ -2,12 +2,12 @@
 layout: post
 title: Who I Am
 description: And how it brought me here
-image: assets/images/about-me.jpg
+image: assets/images/me-01.jpg
 nav-menu: true
 ---
 
-<header class="major">
-  <h2>Getting Through School</h2>
+<header>
+  <h3>Getting Through School</h3>
 </header>
 
 While a naturally private person, I clearly can't remain completely private anymore. You need to know at least a little bit about who I am before you can make up your mind about me. To respect the time that you're giving me right now, I'll try and focus only on the biggest details.
@@ -21,7 +21,7 @@ Throughout this time, I worked low-paying jobs as a fast food worker, as an assi
 I was the kind of person to give hitch-hikers a ride in the summer heat. To buy a meal for homeless people begging on the street corner. To just talk with others and hear them out. Because I always understood that, if my own life were just a little different, that could be me, instead.
 
 <header class="major">
-  <h2>Professional Insights</h2>
+  <h3>Professional Insights</h3>
 </header>
 
 When I eventually started working as a software developer, the difference in my entire existence was... a little overwhelming. Going from a peak of $10.50 an hour to $28.50 an hour utterly redefined my life. Immediately, some of my most pressing concerns disappeared. I was also able to finally begin taking care of problems that, up until that point, had gone unaddressed for years. It also finally sunk in just how oppressive poverty could really be. And as time went on, my hourly pay just kept going up: $35, $42, $65... until I reached a peak at $75 an hour.
@@ -37,7 +37,7 @@ One of the other big reasons for my mixed feelings of relief and guilt? The real
 This means that the 20% to 40% of Americans working those poverty jobs are, in effect, <b>trapped</b>.
 
 <header class="major">
-  <h2>The Reason I'm Here</h2>
+  <h3>The Reason I'm Here</h3>
 </header>
 
 For years now, I've seen this. Yet, I did nothing, because I didn't think there was anything I could do.
@@ -55,7 +55,7 @@ What's worse, this paves the way for bad actors in government to destroy our ins
 I don't want <b>any</b> of that to happen. And I don't want to just stand by and hope, either. I want to try and do <b>something</b> to stop it before it happens.
 
 <header class="major">
-  <h2>The Point</h2>
+  <h3>The Point</h3>
 </header>
 
 It doesn't matter to me that I'm financially stable now. Or that I'll still be financially stable, even if inflation were to go completely through the roof. Because no matter how good my own situation is, other people are still struggling and suffering. I've finally reached a point in my life where I <b>can't</b> just keep saying, "There's nothing I can do to fix this". I can't look away from the people who are still struggling and giving it everything they've got to get to <b>some</b> measure of stability. I also can't turn away from those who have worked themselves to the bone for far, far longer and harder than I did, only to still be just barely at where I am now. People who, unlike me, would be sent right back to fighting to survive if our country continues its current course.
