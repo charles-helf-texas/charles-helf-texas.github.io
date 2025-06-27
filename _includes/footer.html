@@ -26,11 +26,11 @@
 			<section>
 				<div class="contact-method">
 					<ul class="actions">
-						<i class="icon alt fa-brands fa-bluesky"></i>
 						<span class="icon alt fa-usd"> <!-- This is the original line from FA-v4 -->
 							<i class="icon alt fa-solid fa-yen-sign"></i>
 						</span>
 						<i class="icon alt fa-solid fa-money-bill"></i>
+						<i class="icon alt fa-brands fa-bluesky"></i>
 						<h3>Want To Support My Campaign?</h3>
 						<li><input type="submit" value="Donate" class="special" /></li>
 					</ul>
@@ -38,9 +38,9 @@
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-envelope"></span>
+					<span class="icon alt fa-envelope"></span> <!-- Old -->
 					<span>
-						<i class="icon alt fa-solid fa-yen-sign"></i>
+						<i class="icon alt fa-solid fa-envelope"></i>
 					</span>
 					<h3>Email</h3>
 					<a href="mailto:{{ site.email }}">{{ site.email }}</a>
@@ -48,8 +48,9 @@
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<a href="http://www.google.com/" class="icon alt fa-brand google"></a>
+					<span class="icon alt fa-phone"></span> <!-- Old -->
+					<a href="http://www.google.com/" class="icon alt fa-brand fa-google"></a>
+					<i class="icon alt fa-solid fa-phone"></i>
 					<h3>Phone</h3>
 					<a href="tel:{{ site.phone }}">{{ site.phone }}</a>
 				</div>
