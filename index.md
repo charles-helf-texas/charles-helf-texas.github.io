@@ -6,6 +6,7 @@ description: null
 image: null
 author: null
 show_tile: false
+header-color: "alt"
 ---
 
 Before you leave this site, it's really important that you understand something: my candidacy is about more than just fixing the incredibly dangerous situation our country's in right now. It's about undoing the corruption that brought us to this point, in the first place. It's about changing the way American politics works, from the ground up.
@@ -25,8 +26,25 @@ Let's change that now. Together.
 	<table class="alt">
 		<thead>
 			<tr>
-				<th>Total Contributors</th>
-				<th>Total Contributions</th>
+				<th>Total In-District Contributors</th>
+				<th>Total In-District Contributions</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>0</td>
+				<td>$0.00</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<br />
+<div class="table-wrapper">
+	<table class="alt">
+		<thead>
+			<tr>
+				<th>Total Out-of-District Contributors</th>
+				<th>Total Out-of-District Contributions</th>
 			</tr>
 		</thead>
 		<tbody>
