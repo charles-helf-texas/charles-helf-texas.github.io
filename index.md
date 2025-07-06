@@ -22,6 +22,7 @@ Democracy in America is at risk of dying out because the people running the coun
 Let's change that now. Together.
 
 <!-- A counter added for reasons -->
+<br />
 <div class="table-wrapper">
 	<table class="alt">
 		<thead>
