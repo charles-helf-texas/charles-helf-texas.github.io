@@ -23,26 +23,6 @@ nav-menu: true
 
 <!-- Two -->
 <section id="two" class="spotlights">
-		<section>
-		<a href="federal-deficit.html" class="image">
-			<img src="{% link assets/images/cash-exchange.jpg %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Our Federal Debt and Deficit are Out of Control</h3>
-				</header>
-				<p>Our Congressional budget has very rarely ever been balanced. In the past 50 years, there were only 4 annual budgets that <b>didn't</b> run a deficit: 1969, 1998, 1999, and 2001. This may make deficit and debt seem normal. However, we have never before racked up the kind of debt that we have now. In the year 2000, our national debt was roughly <a href="https://www.investopedia.com/us-national-debt-by-year-7499291#toc-the-growing-national-debt">$5.6 trillion</a>. In 2015, it grew to about $18 trillion. Today, not even a full 10 years later, our debt is now around $36 trillion. We have literally doubled our national debt in the past 10 years. And with debt comes interest. 10 years ago, the annual interest on our debt was about $0.5 trillion, whereas now it's $1.1 trillion. Of all the possible cuts Congress can make to the budget, interest payments aren't one of them. Interest payments to our country's debtors are inescapable. And the higher our interest payments become, the more Congress will need to cut from everything else in order to balance the budget.
-				<br /><br />
-				Beyond just the sheer amount of our excessive spending, though, is the ineffective proceses that Congress has used to try and curb it. Since 1960, <a href="https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/debt-limit">Congress has voted 78 times</a> to raise the debt ceiling. That's more than one raising every single year. On top of that, many choices in spending increases and spending cuts have done little to help the situation. As just one example, the Affordable Care Act contributes <a href="https://www.cbo.gov/publication/59273">roughly $1.8 trillion each year</a> to the federal deficit. Yet, despite health insurance companies <a href="https://truthout.org/articles/top-5-us-health-insurers-annual-profits-jumped-230-percent-since-acas-passage/">seeing record profits</a> over the past decade, Congress has made no coordinated attempt whatsoever to curb premium costs. Similarly, Medicare has been historically unable to negotiate drug prices with pharamceutical providers, despite <a href="https://www.cfr.org/blog/american-pharmaceutical-companies-still-arent-paying-tax-us">pharmaceutical companies reporting massive profits while paying little to no income tax for the past decade</a>. It wasn't until 2022 when <a href="https://www.gao.gov/products/gao-25-106996">even a modest nod</a> toward this problem was made, and Congress has still made no effort to actually get these incredibly profitable companies to pay proper income tax. These are just a handful of examples of consistent, systemic behavior of incompetence that has led us to a massive amount of debt and a dangerously deficit budget.
-				<br /><br />
-				If we do nothing about this in the next 10 years, our debt growth will almost certainly spiral out of control, beyond our ability to repair before our country is forced to default.</p>
-				<ul class="actions">
-					<li><a href="federal-deficit.html" class="button">How Can We Fix This?</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
 	<section>
 		<a href="class-decay.html" class="image">
 			<img src="{% link assets/images/strained-workers.jpeg %}" alt="" data-position="center center" />
@@ -59,6 +39,26 @@ nav-menu: true
 				If we do nothing about this in the next 10 years, many ordinary Americans will end up destitute, and only the richest will be able to live securely and comfortably in this nation.</p>
 				<ul class="actions">
 					<li><a href="class-decay.html" class="button">How Can We Fix This?</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="federal-deficit.html" class="image">
+			<img src="{% link assets/images/cash-exchange.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Our Federal Debt and Deficit are Out of Control</h3>
+				</header>
+				<p>Our Congressional budget has very rarely ever been balanced. In the past 50 years, there were only 4 annual budgets that <b>didn't</b> run a deficit: 1969, 1998, 1999, and 2001. This may make deficit and debt seem normal. However, we have never before racked up the kind of debt that we have now. In the year 2000, our national debt was roughly <a href="https://www.investopedia.com/us-national-debt-by-year-7499291#toc-the-growing-national-debt">$5.6 trillion</a>. In 2015, it grew to about $18 trillion. Today, not even a full 10 years later, our debt is now around $36 trillion. We have literally doubled our national debt in the past 10 years. And with debt comes interest. 10 years ago, the annual interest on our debt was about $0.5 trillion, whereas now it's $1.1 trillion. Of all the possible cuts Congress can make to the budget, interest payments aren't one of them. Interest payments to our country's debtors are inescapable. And the higher our interest payments become, the more Congress will need to cut from everything else in order to balance the budget.
+				<br /><br />
+				Beyond just the sheer amount of our excessive spending, though, is the ineffective proceses that Congress has used to try and curb it. Since 1960, <a href="https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/debt-limit">Congress has voted 78 times</a> to raise the debt ceiling. That's more than one raising every single year. On top of that, many choices in spending increases and spending cuts have done little to help the situation. As just one example, the Affordable Care Act contributes <a href="https://www.cbo.gov/publication/59273">roughly $1.8 trillion each year</a> to the federal deficit. Yet, despite health insurance companies <a href="https://truthout.org/articles/top-5-us-health-insurers-annual-profits-jumped-230-percent-since-acas-passage/">seeing record profits</a> over the past decade, Congress has made no coordinated attempt whatsoever to curb premium costs. Similarly, Medicare has been historically unable to negotiate drug prices with pharamceutical providers, despite <a href="https://www.cfr.org/blog/american-pharmaceutical-companies-still-arent-paying-tax-us">pharmaceutical companies reporting massive profits while paying little to no income tax for the past decade</a>. It wasn't until 2022 when <a href="https://www.gao.gov/products/gao-25-106996">even a modest nod</a> toward this problem was made, and Congress has still made no effort to actually get these incredibly profitable companies to pay proper income tax. These are just a handful of examples of consistent, systemic behavior of incompetence that has led us to a massive amount of debt and a dangerously deficit budget.
+				<br /><br />
+				If we do nothing about this in the next 10 years, our debt growth will almost certainly spiral out of control, beyond our ability to repair before our country is forced to default.</p>
+				<ul class="actions">
+					<li><a href="federal-deficit.html" class="button">How Can We Fix This?</a></li>
 				</ul>
 			</div>
 		</div>
