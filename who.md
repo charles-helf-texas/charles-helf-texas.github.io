@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: Who I Am
 description: And how it brought me here
 image: assets/images/who-im.jpg
