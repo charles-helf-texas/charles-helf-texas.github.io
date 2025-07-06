@@ -4,6 +4,7 @@ title: Why Vote For Me?
 description: A no-nonsense answer
 image: assets/images/about-me.jpg
 nav-menu: true
+header-color: "alt style4"
 ---
 
 <header class="major">
