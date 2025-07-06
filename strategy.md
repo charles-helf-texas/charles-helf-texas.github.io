@@ -1,11 +1,19 @@
 ---
-layout: post
+layout: landing
 title: How I'm Running
 description: Progress comes from work<br /> One step at a time
 image: assets/images/how-progress.png
 nav-menu: true
+header-color: alt style3
 ---
 
+<!-- Main -->
+<div id="main">
+
+  <!-- One -->
+  <section id="one">
+	  <div class="inner">
+      
 <header class="major">
   <h2>Money and Politics</h2>
 </header>
@@ -49,3 +57,7 @@ To better understand exactly how 'money predicts successful candidates', let's t
 Why does this matter? Simple: the average Congressional District in the United States has a population of 760,000 people. Given voter turnouts hovering around <a href="https://ballotpedia.org/Voter_turnout_in_United_States_elections">50% in recent elections</a>, only about 380,000 will actually vote. If we're making the (very unlikely) assumption that every $2 equates to 1 donor, then it makes perfect sense as to why these candidates lost. Those 25,000 donating voters only make up about 6.6% of the total 390,000 participating voters. Following the harder-to-meet 20% 'voters-vs-donors' rate, that translates to roughly 33% voter support. And that's being incredibly generous in our assumptions about converting money to donors. Breaking down the candidates who lost, 21% of them didn't even try (not even $1 spent), and another 36% of them just didn't resonate with voters. This is verified by reviewing the election results for these races, which generally show between a 20-point and 40-point difference between the winning and losing candidates.
 
 Looking at this example, we can see very easily how money was more predictive than causative. This all reinforces the core idea behind my strategy here. By spreading the word through as many effective media sources as possible, I can explain my ideas and let the <b>contribution count</b> (even if it's all in the form of $5 contributions) be proof of my performance and viability, rather than the misleading variable of total funds raised.
+
+</div>
+</section>
+</div>

@@ -4,6 +4,7 @@ title: Who I Am
 description: And how it brought me here
 image: assets/images/who-im.jpg
 nav-menu: true
+header-color: alt style4
 ---
 
 <!-- Main -->

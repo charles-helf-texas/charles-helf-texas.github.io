@@ -12,7 +12,8 @@
 
         {% include header.html %}
 
-        <section id="banner" class="style2">
+        <!-- <section id="banner" class="style2">  //// THIS IS THE ORIGINAL LINE -->
+	<section id="banner" class="{{ page.header-color }}">
             <div class="inner">
                 <span class="image">
                     <img src="{{ site.baseurl }}/{{ page.image }}" alt="">
