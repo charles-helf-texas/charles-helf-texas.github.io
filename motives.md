@@ -1,12 +1,19 @@
 ---
-layout: post
+layout: landing
 title: Why Vote For Me?
 description: A no-nonsense answer
 image: assets/images/about-me.jpg
 nav-menu: true
-header-color: "alt style4"
+header-color: alt style2
 ---
 
+<!-- Main -->
+<div id="main">
+
+  <!-- One -->
+  <section id="one">
+	  <div class="inner">
+      
 <header class="major">
   <h1>The Simplest Answer</h1>
 </header>
@@ -60,3 +67,7 @@ The problem is, I think our political system <b>needs</b> more people like me. I
 I understand that there's a lot to read on this website. And I also understand that most of the people reading this are already pressed for time, money, and peace-of-mind. But, if saving our country and our people means anything to you, then please: take whatever time you can spare to read whatever you need to on this site, so that you can make up your mind about me. On some level, every election 'matters'. But, the next several elections will matter a whole lot more than normal. Because of that, it's really important that you make the best choice possible.
 
 We don't have a lot of time left. In light of that: thank you for the time that you've already given me.
+
+</div>
+</section>
+</div>
